@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## ola!! Bem-vindo(a) ao meu perfil,eu sou o Paulo Victor 😁
 
  <div>
    <a href="https://github.com/ivitinho1">
@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### me siga nas redes socias abaixo pra mais informações!
  
 <div> 
   <a href="https://www.instagram.com/vitinho1.dev/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
